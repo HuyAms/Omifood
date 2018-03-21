@@ -1,4 +1,4 @@
 # Omifood
 
 ## Preview
-<img src="https://user-images.githubusercontent.com/26871154/37695825-d2cba228-2cda-11e8-8a81-a3df3e44e8e8.png" height="6000">
+<img src="https://user-images.githubusercontent.com/26871154/37695969-e3c5aa1e-2cdb-11e8-84a6-5036127c4e51.png">
